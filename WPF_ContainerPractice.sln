@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_ContainerPractice", "WPF_ContainerPractice\WPF_ContainerPractice.csproj", "{34E45308-55E1-4AF0-9EC0-C4F4C3C84612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E45308-55E1-4AF0-9EC0-C4F4C3C84612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E45308-55E1-4AF0-9EC0-C4F4C3C84612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E45308-55E1-4AF0-9EC0-C4F4C3C84612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E45308-55E1-4AF0-9EC0-C4F4C3C84612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E92B19C0-3E8B-4C84-8E36-2CEECA85A7BF}
+	EndGlobalSection
+EndGlobal
